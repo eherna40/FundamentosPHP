@@ -107,7 +107,3 @@ Agregando el resto de las rutas a nuestro Router
 ## Créditos
 
 - [Emilio Hernandez](https://www.linkedin.com/in/emilio-rafael-hernandez-perez-3a8bb540/)
-
-## Licencia
-
-[MIT](https://opensource.org/licenses/MIT)# PlanetWeight
