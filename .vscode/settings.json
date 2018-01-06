@@ -1,0 +1,9 @@
+{
+    "git.ignoreLimitWarning": true,
+    "html.format.indentInnerHtml": true,
+    "html.autoClosingTags": true,
+    "files.autoSave": "onWindowChange",
+    "editor.tabSize": 2,
+    "editor.autoClosingBrackets": true,
+    "editor.autoIndent": false
+}
