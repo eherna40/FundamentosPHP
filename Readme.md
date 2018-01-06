@@ -28,6 +28,7 @@ Lógicos
 
 
 **Funciones**
+
 Funciones en PHP
 
 Estructuras Condicionales
@@ -41,6 +42,7 @@ Manejo de Sesiones
 Manejo de Cookies
 
 Funciones Anónimas
+
 
 
 **Programación Orientada a Objetos**
@@ -79,7 +81,9 @@ Borrar un usuario de nuestra base de datos
 Cómo proteger nuestra base de datos ante ataques de SQL Injection
 
 
+
 **Construyento Nuestro Propio Blog**
+
 Creando la vista principal del Blog usando Bootstrap
 
 Administrando los artículos del blog
@@ -90,6 +94,7 @@ Composer y carga automática de archivos
 
 
 **Creando la Organización de Nuestro Blog**
+
 Introducción a Front Controller
 
 Introducción a Router
