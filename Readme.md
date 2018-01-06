@@ -7,7 +7,6 @@ Curso de introducción a php, divido en sus partes esenciales para comenzar a cr
 **Introducción a PHP**
 
 Manejo de Variables y Tipos de Datos en PHP
-
 Utilización de Cadenas de Caracteres en PHP
 Arreglos
 Operadores
